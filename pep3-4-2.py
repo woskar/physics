@@ -1,3 +1,6 @@
+#PEP3 Blatt 4 Aufgabe 2: Wellenfunktion
+#Plot einer Wahrscheinlichkeitsdichte
+
 %matplotlib notebook
 import numpy as np
 import matplotlib
@@ -28,4 +31,4 @@ plt.title('Aufgabe 4.2: Wellenfunktion')
 plt.xlabel(r'x')# $\phi \, [\mathrm{m}]$')
 plt.ylabel(r'Wahrscheinlichkeit') # $d \, [\mathrm{cm}]$')
 # Legende
-plt.legend(loc='best')    
+plt.legend(loc='best')
