@@ -1,6 +1,4 @@
 # physics
 
-This repository stores physics exercises and assignments
+This repository stores physics exercises and assignments for the experimental physics lecture PEP3 on Quantumphysics
 
-- PEP3: Quantumphysics lecture 16/17 (Experimental physics)
-- PAP2: Second laboratory internship
