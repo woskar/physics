@@ -1,4 +1,5 @@
 # physics
 
-This repository stores physics exercises and assignments for the experimental physics lecture PEP3 on Quantumphysics
+This repository stores physics exercises and assignments: 
 
+- pep3: Quantumphysics Lecture Winter 2016/2017
