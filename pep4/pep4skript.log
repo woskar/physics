@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.1.18)  7 MAY 2017 10:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.1.18)  7 MAY 2017 11:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -387,7 +387,7 @@ Package: ngerman 1998/07/08 v2.5e Support for writing german texts (br)
 ngerman -- \language number for naustrian undefined, default 32 used.
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/braket/braket.sty)
-No file pep4skript.aux.
+(./pep4skript.aux)
 \openout1 = `pep4skript.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
@@ -403,7 +403,7 @@ LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Try loading font information for T1+lmr on input line 9.
-(/usr/local/texlive/2016/texmf-dist/tex/latex/lm/t1lmr.fd
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 13.
@@ -438,26 +438,48 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 LaTeX Warning: No \author given.
 
-[1
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 19.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/lm/omslmr.fd
+File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 19.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 19.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 19.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 19.
+ [1
 
-{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(./pep4skript.aux) ) 
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./pep4
+skript.aux) ) 
 Here is how much of TeX's memory you used:
- 1041 strings out of 493014
- 11576 string characters out of 6133351
- 59052 words of memory out of 5000000
- 4610 multiletter control sequences out of 15000+600000
- 24432 words of font info for 28 fonts, out of 8000000 for 9000
+ 1085 strings out of 493014
+ 12180 string characters out of 6133351
+ 61052 words of memory out of 5000000
+ 4640 multiletter control sequences out of 15000+600000
+ 44213 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 23i,6n,22p,165b,200s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-e
-c.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr
-/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texl
-ive/2016/texmf-dist/fonts/type1/public/lm/lmr17.pfb>
-Output written on pep4skript.pdf (1 page, 65590 bytes).
+ 23i,17n,22p,268b,200s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-mathex.e
+nc}{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local
+/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2
+016/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2016/texmf-dist
+/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/local/texlive/2016/texmf-dist/fonts/typ
+e1/public/lm/lmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/
+lm/lmex10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmmi10.
+pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></usr/l
+ocal/texlive/2016/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texliv
+e/2016/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2016/texm
+f-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2016/texmf-dist/font
+s/type1/public/lm/lmr5.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publ
+ic/lm/lmr7.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmsy10
+.pfb>
+Output written on pep4skript.pdf (1 page, 152026 bytes).
 PDF statistics:
- 21 PDF objects out of 1000 (max. 8388607)
- 14 compressed objects within 1 object stream
+ 55 PDF objects out of 1000 (max. 8388607)
+ 41 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
