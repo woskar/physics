@@ -523,6 +523,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 72--73
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+
+ []
+
 [2] (./ptp4.aux) ) 
 Here is how much of TeX's memory you used:
  1082 strings out of 493014
@@ -546,7 +551,7 @@ texmf-dist/fonts/type1/public/lm/lmr5.pfb></usr/local/texlive/2016/texmf-dist/f
 onts/type1/public/lm/lmr7.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/p
 ublic/lm/lmri10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/l
 msy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmsy7.pfb>
-Output written on ptp4.pdf (2 pages, 166512 bytes).
+Output written on ptp4.pdf (2 pages, 166534 bytes).
 PDF statistics:
  62 PDF objects out of 1000 (max. 8388607)
  46 compressed objects within 1 object stream
