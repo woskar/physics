@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.1.18)  17 JUL 2017 11:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.1.18)  17 JUL 2017 11:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -263,12 +263,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 91--92
 
  []
 
-
+[2]
 Underfull \hbox (badness 10000) in paragraph at lines 93--97
 
  []
 
-[2]
+
 Underfull \hbox (badness 10000) in paragraph at lines 98--102
 
  []
@@ -368,12 +368,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 139--140
 
  []
 
-
+[3]
 Underfull \hbox (badness 10000) in paragraph at lines 141--142
 
  []
 
-[3]
+
 Underfull \hbox (badness 10000) in paragraph at lines 143--144
 
  []
@@ -462,7 +462,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 175--176
 Here is how much of TeX's memory you used:
  1120 strings out of 493014
  13663 string characters out of 6133351
- 65685 words of memory out of 5000000
+ 64685 words of memory out of 5000000
  4665 multiletter control sequences out of 15000+600000
  41961 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -484,7 +484,7 @@ ri10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><
 /usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmsy7.pfb></usr/local/
 texlive/2016/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/lo
 cal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb>
-Output written on ptp4.pdf (4 pages, 191702 bytes).
+Output written on ptp4.pdf (4 pages, 191803 bytes).
 PDF statistics:
  80 PDF objects out of 1000 (max. 8388607)
  59 compressed objects within 1 object stream
